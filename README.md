@@ -17,7 +17,7 @@ You Apply By Click This👇
 
 [![YGstudio97 | Apply](https://img.shields.io/badge/YGstudio97%20%7C%20Apply-ClickMe-success?style=for-the-badge)](https://yg-aplication.wasmer.app/)
 
-## 📱 Application Reqerment
+## 📱 Application requirements
 
 - You Need A Email -> (Where We Send Mail)
 - Gethub Profile Link -> (Where We Chake Your Project)
