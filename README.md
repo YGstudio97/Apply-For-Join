@@ -35,6 +35,22 @@ To build a skilled, creative, and collaborative community where members can lear
 
 ## 🏷️ Project Status
 🟢 Actively accepting applications
+## 📱 Application Interface
+
+<div align="center">
+
+<img 
+  src="https://github.com/user-attachments/assets/e853f14e-5ca1-4e08-bb43-890681abfe6d"
+  alt="YGstudio97 Apply UI"
+  width="320"
+/>
+
+<br><br>
+
+<strong>YGstudio97 | Apply</strong>  
+Modern application form designed for developers and creators.
+
+</div>
 
 ## 👤 Developed By
-**YGstudio97**
+**YGstudio97** ©
