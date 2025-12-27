@@ -17,6 +17,15 @@ You Apply By Click This👇
 
 [![YGstudio97 | Apply](https://img.shields.io/badge/YGstudio97%20%7C%20Apply-ClickMe-success?style=for-the-badge)](https://yg-aplication.wasmer.app/)
 
+## 📱 Application Reqerment
+
+- You Need A Email -> (Where We Send Mail)
+- Gethub Profile Link -> (Where We Chake Your Project)
+- GitLab Profile Link -> (where We Chake Your project File)
+- Role selection (Game / App / Web) -> (Select Your interest)
+- Also I Get Your Knowledge Level.
+- Why do you want to join? -> (Minimum 50 Ceracter)
+
 ## 🧩 Features
 - Modern and responsive application form  
 - Role selection (Game / App / Web)  
@@ -35,21 +44,7 @@ To build a skilled, creative, and collaborative community where members can lear
 
 ## 🏷️ Project Status
 🟢 Actively accepting applications
-## 📱 Application Interface
 
-``
-You Need A Email -> (Where We Send Mail)
-
-Gethub Profile Link -> (Where We Chake Your Project)
-
-GitLab Profile Link -> (where We Chake Your project File)
-
-Role selection (Game / App / Web) -> (Select Your interest)
-
-Also I Get Your Knowledge Level.
-
-Why do you want to join? -> (Minimum 50 Ceracter)
-``
 
 ## 👤 Developed By
 **YGstudio97** ©
