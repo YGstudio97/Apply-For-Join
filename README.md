@@ -39,10 +39,15 @@ To build a skilled, creative, and collaborative community where members can lear
 
 ``
 You Need A Email -> (Where We Send Mail)
+
 Gethub Profile Link -> (Where We Chake Your Project)
+
 GitLab Profile Link -> (where We Chake Your project File)
+
 Role selection (Game / App / Web) -> (Select Your interest)
+
 Also I Get Your Knowledge Level.
+
 Why do you want to join? -> (Minimum 50 Ceracter)
 ``
 
