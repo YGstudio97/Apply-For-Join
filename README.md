@@ -37,20 +37,14 @@ To build a skilled, creative, and collaborative community where members can lear
 🟢 Actively accepting applications
 ## 📱 Application Interface
 
-<div align="center">
-
-<img 
-  src="https://github.com/user-attachments/assets/e853f14e-5ca1-4e08-bb43-890681abfe6d"
-  alt="YGstudio97 Apply UI"
-  width="320"
-/>
-
-<br><br>
-
-<strong>YGstudio97 | Apply</strong>  
-Modern application form designed for developers and creators.
-
-</div>
+``
+You Need A Email -> (Where We Send Mail)
+Gethub Profile Link -> (Where We Chake Your Project)
+GitLab Profile Link -> (where We Chake Your project File)
+Role selection (Game / App / Web) -> (Select Your interest)
+Also I Get Your Knowledge Level.
+Why do you want to join? -> (Minimum 50 Ceracter)
+``
 
 ## 👤 Developed By
 **YGstudio97** ©
